@@ -4,7 +4,7 @@
 
 in the program 2 examples are given the solution can be obtained in both the ways.
 
-the element size and default boundary condition is taken as input to the during run time in the first method.
+the element size and default boundary condition is taken as input, during the run time in the first method.
 
 while default boundary condition should be manually assigned in case of 2nd method.
 
