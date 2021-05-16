@@ -14,6 +14,7 @@ inital value of default boundary condition is None.
 
 lambda value of 1.5 is typical and an target error is set to 1% by default.
 
-Lieberman technique is used and the space complexity is O((x/dx) * (y/dy)).
+Lieberman technique is used and the space complexity is O(1).
+the algorithm is an inplace algorithm.
 
 outputs are solution array and % maximum error.
