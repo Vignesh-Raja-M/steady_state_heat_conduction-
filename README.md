@@ -25,7 +25,7 @@ inputs: *Default boundary condition (taken during run time/ mannually assigned)
          
 outputs: solution NumPy array, % maximum error.
 
-Note: In this program, 2 examples were provided as tutorials.
-      The element size and default boundary condition are taken as input during the run time in the first example.
-      while the default boundary condition should be manually assigned in the case of 2nd example.
-      If all the boundary conditions are provided as input, the default boundary condition will not have any effect.
+        Note: In this program, 2 examples were provided as tutorials.
+              The element size and default boundary condition are taken as input during the run time in the first example.
+              while the default boundary condition should be manually assigned in the case of 2nd example.
+              If all the boundary conditions are provided as input, the default boundary condition will not have any effect.
