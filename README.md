@@ -14,12 +14,12 @@ Default conditions:
         The initial value of the default boundary condition is set to None.
         Lambda value(a constant used for the iterative approach) of 1.5 is typical and maximum error is set to 1% by default.
         
-Inputs: *Default boundary condition (taken during run time/ mannually assigned)
-        *mesh element size (taken during run time)
-        *Boundary conditions (pass by value)
-        *Plate dimensions (pass by value)
-         maximum allowable error % (pass by value)
-         lambda value (range 1-2) (pass by value)
+Inputs: *Default boundary condition (taken during run time/ mannually assigned), 
+        *mesh element size (taken during run time), 
+        *Boundary conditions (pass by value), 
+        *Plate dimensions (pass by value), 
+         maximum allowable error % (pass by value), 
+         lambda value (range 1-2) (pass by value), 
          
          Note: *indicates mandatory inputs
          
